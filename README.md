@@ -28,8 +28,6 @@ Unemployment - Prevailing unemployment rate
 
 # Results
 
-Logistic Regression Accuracy: 0.9337131020196789
-
 Support Vector Machine Accuracy: 0.9342309684101502
 
 Decision Tree Accuracy: 0.9508026929052305
